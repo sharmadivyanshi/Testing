@@ -1,0 +1,58 @@
+[33mcommit 396564ed796403f9ade01af513ab40b017180b13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: cea25e7 92c71b6
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 12:29:56 2018 +0530
+
+    Merge Commit
+
+[33mcommit cea25e7900a53893cb4d3fab013fb92446aaa28d[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 12:06:44 2018 +0530
+
+    test local commit changes
+
+[33mcommit 92c71b6742c294e612f11676d6c8d1963c75c5b2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sharmadivyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 12:05:02 2018 +0530
+
+    updated text
+
+[33mcommit 6a803eb9d5404c0628e34959c6fc31579d3ebba6[m
+Author: sharmadivyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 12:03:47 2018 +0530
+
+    updated text
+
+[33mcommit 13b34cbe63e2d5b16b855bff3f2d217bf7032369[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 11:54:29 2018 +0530
+
+    Revert "self testing"
+    
+    This reverts commit 5551e3f9d91e7fa4a7a86a9e1ed9ff852e6f86a9.
+
+[33mcommit 5551e3f9d91e7fa4a7a86a9e1ed9ff852e6f86a9[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 11:53:21 2018 +0530
+
+    self testing
+
+[33mcommit 93d4b0988e5314d404048491d619195735aafdcf[m[33m ([m[1;33mtag: v2[m[33m)[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 11:50:47 2018 +0530
+
+    Revert "Test revert commit"
+    
+    This reverts commit 134290d8083b509b56b17271aae55868111773ae.
+
+[33mcommit 134290d8083b509b56b17271aae55868111773ae[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 11:49:58 2018 +0530
+
+    Test revert commit
+
+[33mcommit 0bda2e1fbdf3b9b4fc5df75255bfe62af064c3e6[m[33m ([m[1;32mtestbranch[m[33m)[m
+Author: Divyanshi <divyanshi.sharma@appirio.com>
+Date:   Tue May 8 11:17:39 2018 +0530
+
+    This is my first commit
